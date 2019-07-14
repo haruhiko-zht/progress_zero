@@ -27,3 +27,6 @@ WYSIWIGを導入し、使いやすさも考えました。詳細は「 https://t
 ### コメント・リアクション機能付き
 それぞれのコメントに対してリアクションをつけることが可能です。
 ![進捗報告 画像](https://taranburan.com/wp-content/uploads/2019/03/069e3f28928480512f0521dfd121453e-1024x589.png "機能3")
+
+## 作者
+Twitter [@haru_zyohatu](https://twitter.com/haru_zyohatu) (あまり使っていませんが..)
