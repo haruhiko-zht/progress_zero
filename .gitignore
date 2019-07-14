@@ -3,3 +3,4 @@ trash/
 php.log
 memo.txt
 image/**
+.idea/
